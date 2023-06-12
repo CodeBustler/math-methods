@@ -63,7 +63,6 @@ log(intRandomNumber); // **random numbers
 //12. abs()  Returns absolute values
 // NaN if value is not a number
 // 0 if value is null
-
 log(Math.abs(7.25)); // 7.25
 log(Math.abs(-7.25)); // 7.25
 log(Math.abs(null)); // 0
